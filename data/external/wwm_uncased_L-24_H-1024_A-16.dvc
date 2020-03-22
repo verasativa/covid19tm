@@ -1,0 +1,7 @@
+md5: 40be8d9c439c937233b33f1eb42e8a03
+outs:
+- md5: 4cee6ce81049b9c8ddd9825bbe6ea154.dir
+  path: wwm_uncased_L-24_H-1024_A-16
+  cache: true
+  metric: false
+  persist: false
